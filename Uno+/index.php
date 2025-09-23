@@ -23,13 +23,13 @@
                                 $_POST['subject'],
                                 $_POST['message']
                             ]);
-                            // echo "<script>alert('Thank you for your feed :)')</script>";
-                             error_log($e->getMessage());
-                            $error['database'] = "An unexpected error occurred. Please try again later."; 
+                             echo "<script>alert('Thank you for your feed :)')</script>";
                             $_POST = array(); //to clear the form data
                         }
                         catch(PDOException $e){
-                            echo "<script>alert('Error: {$e->getMessage()}')</script>";
+                          //  echo "<script>alert('Error: {$e->getMessage()}')</script>";
+                            error_log($e->getMessage());
+                            $error['database'] = "An unexpected error occurred. Please try again later."; 
                         }
                         echo "<script>window.location.hash = ''</script>";
                     }
