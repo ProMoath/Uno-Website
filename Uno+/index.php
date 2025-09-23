@@ -49,6 +49,8 @@
     <link rel="stylesheet" href="fontawesome-free-6.7.1-web/css/all.min.css"/>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="Images/UnoPlus_Logo.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css"
+     integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script src="script.js"></script>
     
 </head>
@@ -281,4 +283,5 @@
 
     </footer>
 </body>
+
 </html>
