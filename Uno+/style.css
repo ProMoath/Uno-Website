@@ -11,7 +11,7 @@
 
 @font-face {
     font-family: 'poppins';
-    src: url(Fonts/Poppins-Regular.ttf) format('truetype');
+    src: url(Poppins-Regular.ttf) format('truetype');
 }
 
 :root{
@@ -716,4 +716,5 @@ form p{
 }
 .login-btn:hover{
     transform: scale(1.03);
+
 }
