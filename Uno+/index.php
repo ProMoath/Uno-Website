@@ -46,7 +46,6 @@
     <meta name="keywords" content="Digital Games, Digital Subscriptions, Digital Marketing">
     <meta name="description" content="simplifies premium digital subscriptions!">
     <title>UNO Website</title>
-    <link rel="stylesheet" href="fontawesome-free-6.7.1-web/css/all.min.css"/>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="Images/UnoPlus_Logo.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css"
@@ -285,3 +284,4 @@
 </body>
 
 </html>
+
